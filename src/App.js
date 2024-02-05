@@ -98,7 +98,7 @@ function App() {
       />
 
       <DriverCard
-        name="Steven Morris"
+        name="Daran Khosrowshahi"
         rating={4.9}
         img="https://ubernewsroomapi.10upcdn.com/wp-content/uploads/2017/09/Dara_ELT_Newsroom_1000px.jpg"
         car={{
